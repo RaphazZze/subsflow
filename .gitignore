@@ -1,5 +1,10 @@
-# misc
+# local subtitle work files
 data/
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
